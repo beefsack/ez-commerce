@@ -1,0 +1,4 @@
+= ez-commerce
+
+ez-commerce is a simple database backed rails app to manage invoices and
+inventory, with a focus on ecommerce.
